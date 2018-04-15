@@ -1,0 +1,5 @@
+D:\Projects\Education\Education\Education\bin\Debug\Education.exe
+D:\Projects\Education\Education\Education\bin\Debug\Education.pdb
+D:\Projects\Education\Education\Education\obj\Debug\Education.csprojResolveAssemblyReference.cache
+D:\Projects\Education\Education\Education\obj\Debug\Education.exe
+D:\Projects\Education\Education\Education\obj\Debug\Education.pdb
